@@ -1,0 +1,54 @@
+
+<html>
+<body>
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><p style="text-align: center;">
+	<img src="./AULA_AVANÇADA_HTML_files/7444f9b330f1b913d7fb47fbddf1afcd.jpg" style="width: 100px; height: 100px;">
+</p>
+
+<p style="text-align: justify; font-size: 12px;">
+	De acordo com o número da ordem de compra <b>{{campo_custom.40561}}</b>, inceptos dictum senectus aliquam elit volutpat quisque phasellus lectus nam blandit tellus. primis urna molestie ut conubia viverra ligula facilisis lobortis felis convallis elit, <i>vestibulum mattis nulla laoreet ornare fringilla nibh malesuada taciti commodo augue, ornare vehicula faucibus in habitant commodo tristique lorem fusce non. amet congue dolor in habitant tempor egestas per enim conubia, eros quisque nibh vitae aliquet justo ut ultrices, cubilia senectus felis tincidunt risus a velit consectetur. cursus tristique ac amet aenean interdum dictum pulvinar, a adipiscing odio semper sem sociosqu, feugiat porta integer consectetur venenatis ullamcorper.</i> 
+</p>
+<br>
+<table border="1" cellpadding="3" cellspacing="0" align="center" style="width: 80%">
+	<tbody><tr>
+		<td rowspan="3" align="center"><img src="./AULA_AVANÇADA_HTML_files/7444f9b330f1b913d7fb47fbddf1afcd.jpg" style="width: 50px; height: 50px;"></td>
+		<td style="font-size: 14px; width: 40%">
+			<b>Produtos Disponíveis</b>
+		</td>
+		<td>
+			<b>Tipo</b>
+		</td>
+	</tr>
+	<tr>
+		<td>Modelo 1</td>
+		<td>Singular</td>
+	</tr>
+	<tr>
+		<td>Modelo 2</td>
+		<td>Abstrato</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">
+			Para mais informações acesse: <a href="https://crmpiperun.com/">crmpiperun.com</a>
+		</td>
+	</tr>
+</tbody></table>
+<br>
+<p style="text-align: left; font-size: 12px;">
+	Cliente contratou o plano <b>{{campo_custom.40866}}</b>, taciti pharetra nibh senectus ultrices lacus gravida viverra, nam tincidunt senectus pulvinar etiam a. class viverra facilisis posuere lacinia metus conubia sit venenatis ad, augue cras nisi condimentum lacus netus hendrerit morbi, orci duis maecenas feugiat praesent ante ac volutpat. rutrum ornare integer nibh a ultrices cursus libero vulputate vel proin etiam sapien vivamus condimentum, habitasse felis fames lobortis eleifend himenaeos congue enim volutpat sociosqu hendrerit aliquet. ut id senectus proin pharetra curabitur nunc odio in, hac luctus netus ante aliquet fames primis. 
+</p>
+<p style="text-align: right; font-size: 12px;">
+	<b>Eu lacus lacinia proin porttitor cras nam nulla dictumst gravida, sociosqu enim maecenas tortor rutrum netus porttitor mollis pellentesque curabitur, quam quis velit id pulvinar per vulputate libero. duis odio enim euismod aenean viverra ipsum ante nullam proin, sem faucibus etiam mauris nisl duis rutrum velit, dictum viverra quisque tincidunt platea vehicula blandit adipiscing.</b> torquent pharetra ultrices nam posuere eleifend volutpat purus nisl id gravida per fermentum curabitur, lacinia porttitor integer praesent adipiscing scelerisque libero rutrum in senectus vivamus inceptos. commodo at nam aliquet curabitur porttitor semper turpis pulvinar metus maecenas congue, risus netus pharetra a sollicitudin ornare libero sem dapibus lectus, ipsum luctus iaculis odio rhoncus fames netus rutrum pellentesque scelerisque. 
+</p>
+<br>
+<p style="text-align: center; font-size: 12px;">
+	<u>Dictum dictumst augue ultricies nostra pellentesque laoreet duis viverra, tellus ullamcorper aliquet rutrum etiam ut et, facilisis auctor erat morbi ultrices torquent vestibulum.</u> scelerisque morbi habitasse proin sodales lacus vehicula conubia mattis aptent nibh, fermentum proin porttitor cursus turpis class lacus aliquet sociosqu. elit scelerisque lobortis at senectus libero himenaeos habitasse sodales erat blandit conubia ac pharetra, eu lacinia turpis facilisis dictum phasellus augue gravida a conubia sociosqu quis. ut maecenas placerat aliquam lacus praesent placerat aliquam neque egestas, nam placerat ipsum condimentum blandit eu facilisis. ac eu etiam eleifend etiam faucibus vulputate nec quisque arcu scelerisque, sit etiam tellus risus turpis aliquam dolor leo. 
+</p>	
+</body>
+<script src="https://fast.conpass.io/-gmeTOXQQfhh.js"></script>
+<script>
+if (window.Conpass) {
+    window.Conpass.init ();
+}
+</script>
+</html>
